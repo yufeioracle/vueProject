@@ -1,0 +1,166 @@
+﻿{
+    "produceInfor":
+        [
+                   {
+                       "name":"产品",
+                       "date":"2017-08-02",
+                       "state":"已退货",
+                       "num":"1212",
+                       "color":"active"
+
+                   },
+                   {
+                       "name":"产品",
+                       "date":"2017-08-02",
+                       "state":"已退货",
+                       "num":"1212",
+                       "color":"success"
+
+                   },
+                   {
+                       "name":"产品",
+                       "date":"2017-08-02",
+                       "state":"已退货",
+                       "num":"1212",
+                       "color":"warning"
+
+                   },
+                   {
+                       "name":"产品",
+                       "date":"2017-08-02",
+                       "state":"已退货",
+                       "num":"1212",
+                       "color":"danger"
+
+                   },
+                   {
+                       "name":"产品",
+                       "date":"2017-08-02",
+                       "state":"已退货",
+                       "num":"1212",
+                       "color":"active"
+
+                   },
+                   {
+                       "name":"产品",
+                       "date":"2017-08-02",
+                       "state":"已退货",
+                       "num":"1212",
+                       "color":"success"
+
+                   },
+                   {
+                       "name":"产品",
+                       "date":"2017-08-02",
+                       "state":"已退货",
+                       "num":"1212",
+                       "color":"warning"
+
+                   },
+                   {
+                       "name":"产品",
+                       "date":"2017-08-02",
+                       "state":"已退货",
+                       "num":"1212",
+                       "color":"danger"
+
+                   },
+                   {
+                       "name":"产品",
+                       "date":"2017-08-02",
+                       "state":"已退货",
+                       "num":"1212",
+                       "color":"active"
+
+                   },
+                   {
+                       "name":"产品",
+                       "date":"2017-08-02",
+                       "state":"已退货",
+                       "num":"1212",
+                       "color":"success"
+
+                   },
+                   {
+                       "name":"产品",
+                       "date":"2017-08-02",
+                       "state":"已退货",
+                       "num":"1212",
+                       "color":"warning"
+
+                   },
+                   {
+                       "name":"产品",
+                       "date":"2017-08-02",
+                       "state":"已退货",
+                       "num":"1212",
+                       "color":"danger"
+
+                   },
+                   {
+                       "name":"产品",
+                       "date":"2017-08-02",
+                       "state":"已退货",
+                       "num":"1212",
+                       "color":"active"
+
+                   },
+                   {
+                       "name":"产品",
+                       "date":"2017-08-02",
+                       "state":"已退货",
+                       "num":"1212",
+                       "color":"success"
+
+                   },
+                   {
+                       "name":"产品",
+                       "date":"2017-08-02",
+                       "state":"已退货",
+                       "num":"1212",
+                       "color":"warning"
+
+                   },
+                   {
+                       "name":"产品",
+                       "date":"2017-08-02",
+                       "state":"已退货",
+                       "num":"1212",
+                       "color":"danger"
+
+                   },
+                   {
+                       "name":"产品",
+                       "date":"2017-08-02",
+                       "state":"已退货",
+                       "num":"1212",
+                       "color":"active"
+
+                   },
+                   {
+                       "name":"产品",
+                       "date":"2017-08-02",
+                       "state":"已退货",
+                       "num":"1212",
+                       "color":"success"
+
+                   },
+                   {
+                       "name":"产品",
+                       "date":"2017-08-02",
+                       "state":"已退货",
+                       "num":"1212",
+                       "color":"warning"
+
+                   },
+                   {
+                       "name":"产品",
+                       "date":"2017-08-02",
+                       "state":"已退货",
+                       "num":"1212",
+                       "color":"danger"
+
+                   }
+
+        ]
+}
